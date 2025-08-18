@@ -416,28 +416,28 @@ Fullstack Developer - Тычин Денис Александрович
 - [Национальная система оценки ИТ - компетенций (ООП)](https://disk.yandex.ru/i/Qq5IFkcYo2fPUQ)
 2025
 
-- Python Essentials:технологии разработки и Data-science: программирование нейросетей
+- [Python Essentials:технологии разработки и Data-science: программирование нейросетей](https://certificate.2035.university/platform/151d1519-9488-4f8d-b5a8-fb146baef4a6.pdf?_ga=2.91036314.1878761641.1722759752-244255147.1716978652)
 2024
 
-- Демонстрационный экзамен
+- [Демонстрационный экзамен](https://pk.dp.firpo.ru/c/4d03dc6b-0b5b-47ec-ab1d-a22c96842b4c)
 2024
 
-- Модуль 1: Python: Продвинутые стратегии и передовые практики
+- [Модуль 1: Python: Продвинутые стратегии и передовые практики](https://tsu-future-code-flow-prod-private.s3.yandexcloud.net/e1301f46-cec3-439d-9cb7-ae131901b813?AWSAccessKeyId=YCAJEOtCKEBq8QBrOtOL49DUY&Expires=1722762158&response-content-disposition=inline%3B%20filename%3D%221356404-7392-%D0%9C1.pdf%22&Signature=jU6dm1WGHm1vF1h89dwY%2FK91a9o%3D)
 2024
 
-- Модуль 2: Работа с данными в Python
+- [Модуль 2: Работа с данными в Python](https://tsu-future-code-flow-prod-private.s3.yandexcloud.net/773a99ba-3242-4d05-b0b6-f5723752cf4d?AWSAccessKeyId=YCAJEOtCKEBq8QBrOtOL49DUY&Expires=1722762211&response-content-disposition=inline%3B%20filename%3D%221356404-7392-%D0%9C2.pdf%22&Signature=QEF%2F7uYA9CYaHvfZI%2FAETzL8Rqg%3D)
 2024
 
-- Модуль 3: Работа с библиотеками Python
+- [Модуль 3: Работа с библиотеками Python](https://tsu-future-code-flow-prod-private.s3.yandexcloud.net/5e0c6543-4d54-45ce-b8cc-3a74777396d5?AWSAccessKeyId=YCAJEOtCKEBq8QBrOtOL49DUY&Expires=1722762231&response-content-disposition=inline%3B%20filename%3D%221356404-7392-%D0%9C3.pdf%22&Signature=XSFF0o00TScahoFzQA7KCL%2F89V8%3D)
 2024
 
-- Модуль 4: Разработка приложений на Python
+- [Модуль 4: Разработка приложений на Python](https://tsu-future-code-flow-prod-private.s3.yandexcloud.net/080ecedb-bc54-4af3-80b7-6ac96f2a11a1?AWSAccessKeyId=YCAJEOtCKEBq8QBrOtOL49DUY&Expires=1722762248&response-content-disposition=inline%3B%20filename%3D%221356404-7392-%D0%9C4.pdf%22&Signature=YItzify%2BrhzamCHuKuLWOx0tZcc%3D)
 2024
 
-- «Профразвитие» АНО «Россия - страна возможностей»
+- [«Профразвитие» АНО «Россия - страна возможностей»](https://rsv-testing.hb.bizmrg.com/reporting/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20%22%D0%9F%D1%80%D0%BE%D1%84%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%22%202023_62a14ad3-263d-4a0d-89a3-037fbe962b40.pdf)
 2023
 
-- Разработка мобильных приложений
+- [Разработка мобильных приложений](https://challenge.braim.org/certificates/bc719867-6226-4fbe-88fe-64c34cee1ba9)
 2023
 
 ---
