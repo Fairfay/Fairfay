@@ -398,22 +398,22 @@ Fullstack Developer - Тычин Денис Александрович
 
 
 ## 📈 Сертификаты
-[- Национальная система оценки ИТ - компетенций (PostgreSQL)](https://disk.yandex.ru/i/iXMnKAM72Y4jlQ)
+- [Национальная система оценки ИТ - компетенций (PostgreSQL)](https://disk.yandex.ru/i/iXMnKAM72Y4jlQ)
 2025
 
-[- Национальная система оценки ИТ - компетенций (Linux)](https://disk.yandex.ru/i/Fjx9IkeBPdHoDA)
+- [Национальная система оценки ИТ - компетенций (Linux)](https://disk.yandex.ru/i/Fjx9IkeBPdHoDA)
 2025
 
-[- Национальная система оценки ИТ - компетенций (Git)](https://disk.yandex.ru/i/86OmAAIDLgj4og)
+- [Национальная система оценки ИТ - компетенций (Git)](https://disk.yandex.ru/i/86OmAAIDLgj4og)
 2025
 
-[- Национальная система оценки ИТ - компетенций (API)](https://disk.yandex.ru/i/CME2fqJxpy9Tdg)
+- [Национальная система оценки ИТ - компетенций (API)](https://disk.yandex.ru/i/CME2fqJxpy9Tdg)
 2025
 
-[- Национальная система оценки ИТ - компетенций (Docker)](https://disk.yandex.ru/d/tW5jf7Zdl7vihQ)
+- [Национальная система оценки ИТ - компетенций (Docker)](https://disk.yandex.ru/d/tW5jf7Zdl7vihQ)
 2025
 
-[- Национальная система оценки ИТ - компетенций (ООП)](https://disk.yandex.ru/i/Qq5IFkcYo2fPUQ)
+- [Национальная система оценки ИТ - компетенций (ООП)](https://disk.yandex.ru/i/Qq5IFkcYo2fPUQ)
 2025
 
 - Python Essentials:технологии разработки и Data-science: программирование нейросетей
