@@ -226,7 +226,7 @@
 <summary><h3>Остальные страницы проекта</h3></summary>
 
 Страница "Внутри доски"
-![Страница "Внутри доски"](https://downloader.disk.yandex.ru/preview/c817f0f40a0b4a5691d7860a44e155d3c50e051ff154e2346a3ef65590e78a33/68750e55/xlcKcb89GKo6Qa0CcdbE53KFfy9ihnxOQpt1l8125zQdejfl5tzh6X--4n0PR8nknecTxIeMP_VQsfg1ZqOBUQ%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193833.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Внутри доски"](https://github.com/Fairfay/Yourtask_promo/blob/main/yourtask_inside_board.png?raw=true)
 
 Страница "Список задач"
 ![Страница "Список задач"](https://downloader.disk.yandex.ru/preview/baa384ebe014189ffa2b1d6df863713deaf6cf82e6427d0d1c3846caee820f92/68750f49/AbyEyk4ZfKbSNHoqGSpFtzDYpZYprEjUfT5RmrjihLe9fHNefOxi-4VMSGCrLJ4UTbnxp7I2N9P84vN3ITHWGw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193919.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
