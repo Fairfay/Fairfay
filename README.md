@@ -220,7 +220,7 @@
 `GitLab`, `GitLab Container Registry`, `GitLab CI/CD`.
 
 Главная страница "Мои доски"
-![Главная страница "Мои доски"](https://downloader.disk.yandex.ru/preview/408a740f7edb444615b3c88f6109693edd12844d20f888798b48b47e113a9bf6/68750da9/w9c4U69O5dg6G_40qze50dtAqewHKAEEtYiUR3yledMDDizcxK6LRCaAsiZy2fWn-PjAaNJdN_KZ7L9TqMSTYA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193906.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2560x1271)
+![Главная страница "Мои доски"](https://disk.yandex.ru/i/JAWGULo80_Vprw)
 
 <details>
 <summary><h3>Остальные страницы проекта</h3></summary>
