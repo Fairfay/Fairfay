@@ -220,7 +220,7 @@
 `GitLab`, `GitLab Container Registry`, `GitLab CI/CD`.
 
 Главная страница "Мои доски"
-![Главная страница "Мои доски"](https://disk.yandex.ru/i/JAWGULo80_Vprw)
+![Главная страница "Мои доски"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_main_boards.png)
 
 <details>
 <summary><h3>Остальные страницы проекта</h3></summary>
@@ -229,28 +229,32 @@
 ![Страница "Внутри доски"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_inside_board.png)
 
 Страница "Список задач"
-![Страница "Список задач"](https://downloader.disk.yandex.ru/preview/baa384ebe014189ffa2b1d6df863713deaf6cf82e6427d0d1c3846caee820f92/68750f49/AbyEyk4ZfKbSNHoqGSpFtzDYpZYprEjUfT5RmrjihLe9fHNefOxi-4VMSGCrLJ4UTbnxp7I2N9P84vN3ITHWGw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193919.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Список задач"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_tasks_list.png)
 
 Страница "Задача"
-![Страница "Задача"](https://downloader.disk.yandex.ru/preview/186bd4e70072cfaa754393cccfd499744ba362f490e40e1be9a53ec6a386afba/68751039/3WAWqWk_fYI4Pz4SlRZkz7mWSOi6Pu04_8Mv_tG61jmlPv0f_SrVgQmTNVL1DN_8PlRleWqudCnk1Q8oqPJZKA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194224.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Задача"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_inside_task.png)
 
 Страница "Профиль"
-![Страница "Профиль"](https://downloader.disk.yandex.ru/preview/36a6fd28c23d6bc5d43065d72f1501483d8ca2210b5c171ad232809fc52bac98/68751061/FgrWoiXDjnQlvn_uJ1FSEmy_txOSXNuOMqU9jpFWxaPPefGbuC-M0MjWbGw3nVtiVZLDR2eyk2TxscIRwLVzMA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194248.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Профиль"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_user_profile.png)
 
 Страница "Cтатистика по сотрудникам"
-![Страница "Cтатистика по сотрудникам"](https://downloader.disk.yandex.ru/preview/fe45250923a0797039c4d21553f79d23a0f5726a367a12634f020179f3962421/68750f92/fs-8jxlNA6B52kmFsesxfttAqewHKAEEtYiUR3yledOpH0VDmgna-EdE3aRIGPt5yplHxI2y6GNm-SWTGA33Sw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193956.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Cтатистика по сотрудникам"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_details_by_employees.png)
 
 Страница настроек активная кнопка "Создать роль"
-![Страница настроек активная кнопка "Создать роль"](https://downloader.disk.yandex.ru/preview/ca406f557b683ceb5b388d6aff15cd3c39c2c7369b082e4881128c9526a3c647/68750fd1/dSDGNC6ezmofw-RYd38qUXKFfy9ihnxOQpt1l8125zQJrC2j7H3OLK3-fNScJ9G_SL_SQIB9eXRNu1Y1gAoOlw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194126.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница настроек активная кнопка "Создать роль"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_settings_role.png)
 
 Страница "Мои задачи"
-![Страница "Мои задачи"](https://downloader.disk.yandex.ru/preview/70304749b573ff4a246cad1d4ca00d7453a23a9b1c291b4191a68d6a90d22b7c/6875113e/aR51N4x66E_yiN6vIt805ZJokfZkhdZj_pwCDK1ZHgcIks9SbGOLS6LGWdw_uVybCuFhhWFbl7vcos8kmyb6mw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193935.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Мои задачи"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_info_user.png)
 
 Мобильный дизайн
-![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/2a992a0cc0e63147c9d3999a0530e78c06bfd7f899728ed4b1d06800a932c863/687511e6/Z-yaPuTORca00mkKxIBaqHKFfy9ihnxOQpt1l8125zTWQCMKPw-p0iIRfX1HnHhxp00ic35L4Yef-FUOmaWBEQ%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194659.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
-![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/8a3e8e9f348cd644c39d57fdd16a0278832d3f097cb2b62fe58b58ca1c0429ce/68751227/Ua1nU9zs0N2yBwSUglFyg5JokfZkhdZj_pwCDK1ZHgcWsM-PemBo6y8DaezjcyJk9-Tbt8_QOZAZa7GW49-JyQ%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194717.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
-![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/177c2579e05c3936a773c9f1c693225bf24c43fb77a6cefa4ae3fcbfae471118/6875126a/ILd7x6jdyMrzFTgVNd8ui2ftyZmNiVoTaPad0fap4p5RNf1Mwe25umofahBybRkO_WOPbv4_2OwXm9dYLwHiQw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20195022.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=1272x1005)
-![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/c12c7e793231a816e51a451bd89955311118dd77326a17609b58c77fbcee5cc4/687512ca/pc1enAZmaGDOGbu7MQY_qQDDih97_XYjAaLPN6CNHDJ9_xiB3nWu1UerD2B-8lI53ThKXjBg6790TFnBGDltLA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194734.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Мобильный дизайн - Профиль"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_mobile_info_user.png)
+![Страница "Мобильный дизайн - Доска, внутри Доски"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_mobile.png)
+![Страница "Мобильный дизайн - Фильтры внутри доски, Внутри задачи"](https://github.com/Fairfay/Yourtask_promo/blob/main/yourtask_mobile_inside_board_and_task.png)
+![Страница "Мобильный дизайн - Фильтры Список задач, Внутри задачи"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_mobile_inside_task_and_filter.png)
+
+Некоторые модальные окна
+![Страница "Заметки"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_modal_window_notes.png)
+![Страница "Различне настройки"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_modal_windows.png)
 </details>
 
 **Детали:**  
