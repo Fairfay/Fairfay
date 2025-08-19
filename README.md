@@ -253,6 +253,7 @@
 ![Страница "Мобильный дизайн - Фильтры Список задач, Внутри задачи"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_mobile_inside_task_and_filter.png)
 
 Некоторые модальные окна
+
 ![Страница "Заметки"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_modal_window_notes.png)
 ![Страница "Различне настройки"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_modal_windows.png)
 </details>
