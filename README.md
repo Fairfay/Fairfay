@@ -226,7 +226,7 @@
 <summary><h3>Остальные страницы проекта</h3></summary>
 
 Страница "Внутри доски"
-![Страница "Внутри доски"](https://github.com/Fairfay/Yourtask_promo/blob/main/yourtask_inside_board.png?raw=true)
+![Страница "Внутри доски"](https://raw.githubusercontent.com/Fairfay/Yourtask_promo/refs/heads/main/yourtask_inside_board.png)
 
 Страница "Список задач"
 ![Страница "Список задач"](https://downloader.disk.yandex.ru/preview/baa384ebe014189ffa2b1d6df863713deaf6cf82e6427d0d1c3846caee820f92/68750f49/AbyEyk4ZfKbSNHoqGSpFtzDYpZYprEjUfT5RmrjihLe9fHNefOxi-4VMSGCrLJ4UTbnxp7I2N9P84vN3ITHWGw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193919.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
