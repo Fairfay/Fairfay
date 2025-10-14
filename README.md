@@ -409,6 +409,10 @@ Fullstack Developer - Тычин Денис Александрович
 
 
 ## 📈 Сертификаты
+- [Диплом о профессиональной переподготовке по программе «Python-разработчик. Расширенный»](https://disk.yandex.ru/d/8t1hlWIhDqeRvg)
+- [Certificate of Completion of the Professional Training Course "Python Developer: Extended Program"](https://disk.yandex.ru/i/JsCZmhmEiT1rSw)
+2025
+
 - [Национальная система оценки ИТ - компетенций (PostgreSQL)](https://disk.yandex.ru/i/iXMnKAM72Y4jlQ)
 2025
 
