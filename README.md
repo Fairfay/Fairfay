@@ -435,7 +435,7 @@ Fullstack Developer - Тычин Денис Александрович
 🛠 Технологии: `Django`, `React`, `pytest`, `python`, `JWT`, `Djoser`, `Gunicorn`, `CI/CD`, `Postgres`, `psycopg2`, `Yaml`, `Telegram API`, `Docker`, `Docker Compose`, `Nginx(gateway)`,
 `Axios`, `Git Actions`, `Django REST Framework`.
 
-🔗 [Исходники](https://github.com/Fairfay/kittygram_final)
+🔗 [Исходники](https://github.com/Fairfay/taski-docker)
 
 **Детали:**
 - **Какой эффект достигнут?**
