@@ -312,7 +312,22 @@ UI/UX Designer - Ксения
 
 ---
 
-### 2. ReportTask
+### 2. rest_api_task_management_service
+**Описание:**
+Небольшой REST-сервис для управления запросами на выплаты. Каждый запрос создается через API и обрабатывается асинхронно с помощью Celery.
+
+**Возможности:** 
+REST API сервис для управления заявками на выплату средств с асинхронной обработкой через Celery и Redis.
+Более подробно в репозитории.
+
+🛠 Технологии: `Django`, `Django REST Framework`, `JWT`, `Gunicorn`, `Poetry`, `Redis`, `Celery`, `Flower`, `Postgres`, `Swagger`, `Telegram API`, `Nginx`, `Docker`, `Docker Compose`, `Makefile`, `GitHub`,
+`nplusone`, `drf-standardized-errors`, `django-health-check`, `pytest`.
+
+🔗 [Исходники backend](https://github.com/Fairfay/rest_api_task_management_service)
+
+---
+
+### 3. ReportTask
 **Описание:**
 Мобильное и веб-приложение для создания и учета доставок. 
 
@@ -340,7 +355,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 3. Foodgram
+### 4. Foodgram
 **Описание:** онлайн-платформа, где пользователи могут публиковать рецепты, просматривать рецепты других авторов, добавлять их в избранное, подписываться на любимых авторов и формировать список покупок для приготовления блюд.
 
 🛠 Технологии: `Django`, `Django REST Framework`, `JWT`, `Djoser`, `Pillow`, `Pytest`, `Unittest`, `Postgres`, `React`, `Gunicorn`,
@@ -356,7 +371,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 4. BS4ParserPEP
+### 5. BS4ParserPEP
 **Описание:** проект предназначен для парсинга официальной документации Python и PEP-документов с сайта peps.python.org. Парсер позволяет собирать и анализировать информацию о PEP, их статусах, а также получать другие полезные данные из документации Python.
 
 🛠 Технологии: `BeautifulSoup4`, `PrettyTable`, `LXML`, `Pytest`, `tqdm`, `Request`, `GitHub`.
@@ -371,7 +386,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 5. YAcut
+### 6. YAcut
 **Описание:** Сервис укорачивания ссылок. Его назначение — ассоциировать длинную пользовательскую ссылку с короткой, которую предлагает сам пользователь или предоставляет сервис. 
 
 🛠 Технологии: `Flask`, `WTForms`, `Jinja2`, `Alembic`, `SQlAlchemy`, `Pytest`, `GitHub`.
@@ -386,7 +401,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 5. TaskForSecunda
+### 7. TaskForSecunda
 **Описание:** REST API приложения для справочника Организаций, Зданий, Деятельности.
 
 🛠 Технологии: `FastAPI`, `Uvicorn`, `SQlAlchemy`, `Alembic`, `FastAPIUsers`, `Pydantic`, `GitHub`, `Pytest`, `Asyncio`, `Postgres`, `asyncpg`, `aiosqlite`, `poetry`, `Docker`,
@@ -402,7 +417,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 6. ScrapyParserPep
+### 8. ScrapyParserPep
 **Описание:** веб-скрейпер, написанный на Scrapy, который собирает информацию о статусах PEP (Python Enhancement Proposals). Он парсит данные с официального сайта, анализирует статусы PEP и сохраняет результаты в CSV-файлы.
 
 🛠 Технологии: `Scrapy`, `lxml`, `pytest`, `python`, `csv`.
@@ -415,7 +430,7 @@ Fullstack Developer - Тычин Денис Александрович
 - **Компания:** АНО ДПО "Образовательные технологии Яндекса"
 - **Команда:** Backend Developer - Тычин Денис Александрович
 
-### 7. Kittygram
+### 9. Kittygram
 **Описание:** социальная сеть для обмена фотографиями любимых питомцев. Это полностью рабочий проект, который состоит из бэкенд-приложения на Django и фронтенд-приложения на React.
 
 🛠 Технологии: `Django`, `React`, `pytest`, `python`, `JWT`, `Djoser`, `Gunicorn`, `CI/CD`, `Postgres`, `psycopg2`, `Yaml`, `Telegram API`, `Docker`, `Docker Compose`, `Nginx(gateway)`,
@@ -429,7 +444,7 @@ Fullstack Developer - Тычин Денис Александрович
 - **Компания:** АНО ДПО "Образовательные технологии Яндекса"
 - **Команда:** Backend Developer - Тычин Денис Александрович
 
-### 8. taskiDocker
+### 10. taskiDocker
 **Описание:** приложение для планирования задач. Задачи можно добавлять, изменять, удалять и переводить из группы "незавершённые" в "завершённые". Деплой на удаленный сервер.
 
 🛠 Технологии: `Django`, `React`, `pytest`, `python`, `JWT`, `Djoser`, `Gunicorn`, `CI/CD`, `Postgres`, `psycopg2`, `Yaml`, `Telegram API`, `Docker`, `Docker Compose`, `Nginx(gateway)`,
