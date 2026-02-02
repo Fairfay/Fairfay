@@ -320,10 +320,16 @@ UI/UX Designer - Ксения
 REST API сервис для управления заявками на выплату средств с асинхронной обработкой через Celery и Redis.
 Более подробно в репозитории.
 
-🛠 Технологии: `Django`, `Django REST Framework`, `JWT`, `Gunicorn`, `Poetry`, `Redis`, `Celery`, `Flower`, `Postgres`, `Swagger`, `Telegram API`, `Nginx`, `Docker`, `Docker Compose`, `Makefile`, `GitHub`,
+🛠 Технологии: `Django`, `Django REST Framework`, `Gunicorn`, `Poetry`, `Redis`, `Celery`, `Flower`, `Postgres`, `Swagger`, `Telegram API`, `Nginx`, `Docker`, `Docker Compose`, `Makefile`, `GitHub`,
 `nplusone`, `drf-standardized-errors`, `django-health-check`, `pytest`.
 
 🔗 [Исходники backend](https://github.com/Fairfay/rest_api_task_management_service)
+
+**Детали:**
+- **Какой эффект достигнут?**
+Украли приложение как скелет для построения системы.
+- **Команда:**
+Python Backend Developer - Тычин Денис Александрович
 
 ---
 
