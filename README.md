@@ -311,6 +311,7 @@ Fullstack Developer - Тычин Денис Александрович,
 UI/UX Designer - Ксения
 
 ---
+
 ### 2. Blog-api-with-caching
 **Описание:**
 Проектирование и реализация API для блога с кешированием постов
@@ -329,6 +330,7 @@ REST API сервис для управления блогами с кеширо
 - **Команда:**
 Python Backend Developer - Тычин Денис Александрович
 
+---
 
 ### 3. rest_api_task_management_service
 **Описание:**
