@@ -311,8 +311,26 @@ Fullstack Developer - Тычин Денис Александрович,
 UI/UX Designer - Ксения
 
 ---
+### 2. Blog-api-with-caching
+**Описание:**
+Проектирование и реализация API для блога с кешированием постов
 
-### 2. rest_api_task_management_service
+**Возможности:** 
+REST API сервис для управления блогами с кешированием постов через redis.
+
+🛠 Технологии: `Django`, `Django REST Framework`, `Gunicorn`, `Poetry`, `Redis`, `Postgres`, `Swagger`, `Nginx`, `Docker`, `Docker Compose`, `Makefile`, `GitHub`,
+`nplusone`, `drf-standardized-errors`, `django-health-check`, `pytest`.
+
+🔗 [Исходники backend](https://github.com/Fairfay/Blog-api-with-caching)
+
+**Детали:**
+- **Какой эффект достигнут?**
+Отличные отзывы и получение оффера в tech компанию
+- **Команда:**
+Python Backend Developer - Тычин Денис Александрович
+
+
+### 3. rest_api_task_management_service
 **Описание:**
 Небольшой REST-сервис для управления запросами на выплаты. Каждый запрос создается через API и обрабатывается асинхронно с помощью Celery.
 
@@ -333,7 +351,7 @@ Python Backend Developer - Тычин Денис Александрович
 
 ---
 
-### 3. ReportTask
+### 4. ReportTask
 **Описание:**
 Мобильное и веб-приложение для создания и учета доставок. 
 
@@ -361,7 +379,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 4. Foodgram
+### 5. Foodgram
 **Описание:** онлайн-платформа, где пользователи могут публиковать рецепты, просматривать рецепты других авторов, добавлять их в избранное, подписываться на любимых авторов и формировать список покупок для приготовления блюд.
 
 🛠 Технологии: `Django`, `Django REST Framework`, `JWT`, `Djoser`, `Pillow`, `Pytest`, `Unittest`, `Postgres`, `React`, `Gunicorn`,
@@ -377,7 +395,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 5. BS4ParserPEP
+### 6. BS4ParserPEP
 **Описание:** проект предназначен для парсинга официальной документации Python и PEP-документов с сайта peps.python.org. Парсер позволяет собирать и анализировать информацию о PEP, их статусах, а также получать другие полезные данные из документации Python.
 
 🛠 Технологии: `BeautifulSoup4`, `PrettyTable`, `LXML`, `Pytest`, `tqdm`, `Request`, `GitHub`.
@@ -392,7 +410,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 6. YAcut
+### 7. YAcut
 **Описание:** Сервис укорачивания ссылок. Его назначение — ассоциировать длинную пользовательскую ссылку с короткой, которую предлагает сам пользователь или предоставляет сервис. 
 
 🛠 Технологии: `Flask`, `WTForms`, `Jinja2`, `Alembic`, `SQlAlchemy`, `Pytest`, `GitHub`.
@@ -407,7 +425,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 7. TaskForSecunda
+### 8. TaskForSecunda
 **Описание:** REST API приложения для справочника Организаций, Зданий, Деятельности.
 
 🛠 Технологии: `FastAPI`, `Uvicorn`, `SQlAlchemy`, `Alembic`, `FastAPIUsers`, `Pydantic`, `GitHub`, `Pytest`, `Asyncio`, `Postgres`, `asyncpg`, `aiosqlite`, `poetry`, `Docker`,
@@ -423,7 +441,7 @@ Fullstack Developer - Тычин Денис Александрович
 
 ---
 
-### 8. ScrapyParserPep
+### 9. ScrapyParserPep
 **Описание:** веб-скрейпер, написанный на Scrapy, который собирает информацию о статусах PEP (Python Enhancement Proposals). Он парсит данные с официального сайта, анализирует статусы PEP и сохраняет результаты в CSV-файлы.
 
 🛠 Технологии: `Scrapy`, `lxml`, `pytest`, `python`, `csv`.
@@ -436,7 +454,7 @@ Fullstack Developer - Тычин Денис Александрович
 - **Компания:** АНО ДПО "Образовательные технологии Яндекса"
 - **Команда:** Backend Developer - Тычин Денис Александрович
 
-### 9. Kittygram
+### 10. Kittygram
 **Описание:** социальная сеть для обмена фотографиями любимых питомцев. Это полностью рабочий проект, который состоит из бэкенд-приложения на Django и фронтенд-приложения на React.
 
 🛠 Технологии: `Django`, `React`, `pytest`, `python`, `JWT`, `Djoser`, `Gunicorn`, `CI/CD`, `Postgres`, `psycopg2`, `Yaml`, `Telegram API`, `Docker`, `Docker Compose`, `Nginx(gateway)`,
@@ -450,7 +468,7 @@ Fullstack Developer - Тычин Денис Александрович
 - **Компания:** АНО ДПО "Образовательные технологии Яндекса"
 - **Команда:** Backend Developer - Тычин Денис Александрович
 
-### 10. taskiDocker
+### 11. taskiDocker
 **Описание:** приложение для планирования задач. Задачи можно добавлять, изменять, удалять и переводить из группы "незавершённые" в "завершённые". Деплой на удаленный сервер.
 
 🛠 Технологии: `Django`, `React`, `pytest`, `python`, `JWT`, `Djoser`, `Gunicorn`, `CI/CD`, `Postgres`, `psycopg2`, `Yaml`, `Telegram API`, `Docker`, `Docker Compose`, `Nginx(gateway)`,
