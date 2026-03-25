@@ -10,7 +10,7 @@
 Я прошел большой путь, побывал в роли Fullstack и решил развиваться в направлении Backend.
 
 <details>
-<summary><h2>Опыт работы 3+ года:</h2></summary>
+<summary><h2>Опыт работы 4 года:</h2></summary>
   <h4>
     <a href="https://incasecorp.ru " target="_blank" rel="noopener noreferrer">
       <span">ООО "ИНКЕЙС КОРП"</span>
