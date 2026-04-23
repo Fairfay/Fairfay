@@ -546,4 +546,4 @@ Habr: https://career.habr.com/fairfay
 
 ## 📚 Полезные ссылки
 - [Всегда актуальное резюме на HH](https://kemerovo.hh.ru/resume/bdd60bfcff0c2487160039ed1f447a6d306563)
-- [Моё резюме Яндекс Диск](https://disk.yandex.ru/i/YxSaF5iz09TPNQ)   
+- [Резюме Яндекс Диск](https://disk.yandex.ru/i/xtpzvtr3FQlf8Q)   
