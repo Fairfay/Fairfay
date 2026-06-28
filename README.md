@@ -10,15 +10,33 @@
 Я прошел большой путь, побывал в роли Fullstack и решил развиваться в направлении Backend.
 
 <details>
-<summary><h2>Опыт работы 4 года:</h2></summary>
+<summary><h2>Опыт работы 4+ года:</h2></summary>
   <h4>
-    <a href="https://incasecorp.ru " target="_blank" rel="noopener noreferrer">
+    <a href="https://noones.com" target="_blank" rel="noopener noreferrer">
+      <span">NoOnes (Fintech - Wallet team)"</span>
+    </a>
+  </h4>
+  <div>
+    <span>Python Software Engineer</span>
+    <span>Июнь 2025 — Июнь 2026</span>
+  </div>
+  <div>
+    <h4>Обязанности:</h4>
+      <br>Разрабатывал и поддерживал отказоустойчивые интеграции с различными платежными провайдерами.
+      <br>Оптимизировал ключевой платежный модуль, успешно обрабатывающий более $20 000 в день.
+      <br>Реализовал безопасное взаимодействие с API (REST, вебхуки), проверку цифровых подписей и шифрование данных в соответствии со стандартами финтеха.
+      <br>Работаю в составе команды над обеспечением атомарности транзакций, синхронизации балансов и механизмов отката (rollback) в случае ошибок.
+  </div>
+
+  
+  <h4>
+    <a href="https://incasecorp.ru" target="_blank" rel="noopener noreferrer">
       <span">ООО "ИНКЕЙС КОРП"</span>
     </a>
   </h4>
   <div>
     <span>Python Разработчик</span>
-    <span>Июнь 2025 — настоящее время</span>
+    <span>Июнь 2025 — Июнь 2026</span>
   </div>
   <div>
     <h4>Обязанности:</h4>
