@@ -13,7 +13,7 @@
 <summary><h2>Опыт работы 4+ года:</h2></summary>
   <h4>
     <a href="https://noones.com" target="_blank" rel="noopener noreferrer">
-      <span">NoOnes (Fintech - Wallet team)"</span>
+      <span">NoOnes (Fintech - Wallet team)</span>
     </a>
   </h4>
   <div>
