@@ -18,7 +18,7 @@
   </h4>
   <div>
     <span>Python Software Engineer</span>
-    <span>Июнь 2025 — Июнь 2026</span>
+    <span>Июнь 2025 — По настоящее время</span>
   </div>
   <div>
     <h4>Обязанности:</h4>
